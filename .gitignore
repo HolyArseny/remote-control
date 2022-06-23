@@ -5,6 +5,10 @@
 .DS_Store
 Thumbs.db
 [Dd]esktop.ini
+.env
+
+#Build
+/build
 
 # Links
 *.lnk
